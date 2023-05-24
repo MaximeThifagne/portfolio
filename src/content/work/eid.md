@@ -4,7 +4,7 @@ publishDate: 2021-03-02 00:00:00
 img: /assets/eid.jpg
 img_alt: Site Internet CIC Suisse
 description: |
-  Developement application de virement BeoBank et CIC Suisse
+  Développement application de virement BeoBank et CIC Suisse
 tags:
   - Back-End
   - Front-End
@@ -12,7 +12,7 @@ tags:
 
 ## Présentation du projet
 
-Dans le cadre d'une mission en préstation pour <a href="https://www.uti-group.fr/">UTI Group</a> au sein d'<a href="https://www.e-i.com/">EID</a> j'avais en charge le dévelopement des applications de virement web pour les banques BeoBank et CIC Suisse.
+Dans le cadre d'une mission en prestation pour <a href="https://www.uti-group.fr/">UTI Group</a> au sein d'<a href="https://www.e-i.com/">EID</a> j'avais en charge le développement des applications de virement web pour les banques BeoBank et CIC Suisse.
 
 ### Contexte technique
 
@@ -21,7 +21,7 @@ Dans le cadre d'une mission en préstation pour <a href="https://www.uti-group.f
 - Test unitaire
 - Test Integration
 
-### Mission réalisé
+### Missions réalisées
 
 - Spécification techniques des demandes.
 - Développement de module bancaire pour un client.

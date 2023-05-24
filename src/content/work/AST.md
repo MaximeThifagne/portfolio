@@ -4,7 +4,7 @@ publishDate: 2021-03-02 00:00:00
 img: /assets/ast-groupe.jpg
 img_alt: Site internet AST Group
 description: |
-  Developpement de l'ERP interne au groupe
+  Développement de l'ERP interne au groupe
 tags:
   - .Net
   - Back-End
@@ -16,7 +16,7 @@ tags:
 
 ## Présentation du projet
 
-En tant que promoteur et constructeur immobilier, il est nécessaire de gérer les ressources tant humaine que materiel, c'est tout l'objectif d'un ERP. L'objectif était donc de concevoir, ameliorer et mettre en place un outils performant,utilisable et qui puissent aider les différents acteurs dans leur mission quotidienne
+En tant que promoteur et constructeur immobilier, il est nécessaire de gérer les ressources tant humaines que matériels, c'est tout l'objectif d'un ERP. L'objectif était donc de concevoir, améliorer et mettre en place un outil performant, utilisable et qui puissent aider les différents acteurs dans leur mission quotidienne.
 
 ### Contexte technique
 
@@ -28,7 +28,7 @@ En tant que promoteur et constructeur immobilier, il est nécessaire de gérer l
 - Angular
 - Principe SOLID
 
-### Mission réalisé
+### Missions réalisées
 
 - Développer les fonctionnalités
 - Développer les évolutions souhaitées dans les technologies demandées
