@@ -22,8 +22,8 @@ Un bandeau commun patient permet à tout intervenant d'accéder aux informations
 
 De plus, Easily peut supporter des dossiers particuliers comme :
 
-le DOG, spécifique à la maternité, il couvre la prise en charge de la patiente à partir du début de grossesse jusqu'à son l'accouchement et suite de couche
-ASUR, spécifique aux urgences, il comprend l'intégration de nouveaux pictogramme (SFMU)
+le DOG, spécifique à la maternité, il couvre la prise en charge de la patiente à partir du début de grossesse jusqu'à son accouchement et suite de couche
+ASUR, spécifique aux urgences, il comprend l'intégration de nouveaux pictogrammes (SFMU).
 Le bloc, qui couvre la prise en charge pré, per et post-bloc, un module complètement interfaçable avec DIANE
 Il existe également un module PMSI avec une capacité de cotation silencieuse.
 
@@ -40,6 +40,6 @@ Enfin, dans le cadre d'un travail multi-applications métier (PACS, RIS, SIL , l
 
 - Spécification techniques des demandes.
 - Développement de modules web dans un contexte médical
-- Test unitaires des modules
-- Test d'intégrations des modules
+- Tests unitaires des modules
+- Tests d'intégrations des modules
 - Suivi de production

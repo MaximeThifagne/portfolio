@@ -16,7 +16,7 @@ tags:
 
 ## Présentation du projet
 
-En tant que promoteur et constructeur immobilier, il est nécessaire de gérer les ressources tant humaines que matériels, c'est tout l'objectif d'un ERP. L'objectif était donc de concevoir, améliorer et mettre en place un outil performant, utilisable et qui puissent aider les différents acteurs dans leur mission quotidienne.
+En tant que promoteur et constructeur immobilier, il est nécessaire de gérer les ressources tant humaines que matérielles, c'est tout l'objectif d'un ERP. L'objectif était donc de concevoir, améliorer et mettre en place un outil performant, utilisable et qui puisse aider les différents acteurs dans leurs missions quotidiennes.
 
 ### Contexte technique
 

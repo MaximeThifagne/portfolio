@@ -4,7 +4,7 @@ publishDate: 2022-03-02 00:00:00
 img: /assets/wekolo.png
 img_alt: Site internet wekolo
 description: |
-  Développement d'un outils de marketing digital
+  Développement d'un outil de marketing digital
 tags:
   - Back-End
   - Font-End

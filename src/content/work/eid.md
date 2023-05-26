@@ -25,5 +25,5 @@ Dans le cadre d'une mission en prestation pour <a href="https://www.uti-group.fr
 
 - Spécification techniques des demandes.
 - Développement de module bancaire pour un client.
-- Test unitaires des modules
-- Test d'intégrations des modules
+- Tests unitaires des modules
+- Tests d'intégrations des modules
