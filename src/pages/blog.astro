@@ -1,0 +1,39 @@
+---
+import { getCollection } from 'astro:content';
+
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+import ContactCTA from '../components/ContactCTA.astro';
+import Hero from '../components/Hero.astro';
+import Grid from '../components/Grid.astro';
+import BlogPreview from '../components/BlogPreview.astro';
+
+const articles = (await getCollection('blog')).sort(
+	(a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()
+);
+---
+
+<BaseLayout
+	title="Mes articles| Maxime Thifagne"
+	description="Lisez les articles écrit par Maxime Thifagne"
+>
+	<div class="stack gap-20">
+		<main class="wrapper stack gap-8">
+			<Hero
+				title="Mes articles"
+				tagline="Lisez mes articles pour en apprendre plus sur les méthodes que j'utilise dans le développement"
+				align="start"
+			/>
+			<Grid variant="offset">
+				{
+					articles.map((article) => (
+						<li>
+							<BlogPreview article={article} />
+						</li>
+					))
+				}
+			</Grid>
+		</main>
+		<ContactCTA />
+	</div>
+</BaseLayout>
