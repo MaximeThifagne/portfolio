@@ -1,6 +1,6 @@
 ---
 title: Qu'est ce que le TDD
-publishDate: 2023-03-02 00:00:00
+publishDate: 2023-06-01 21:00:00
 img: /assets/blog/tdd.jpg
 img_alt: Immage illustant le TDD
 description: |
