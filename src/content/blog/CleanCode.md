@@ -1,6 +1,6 @@
 ---
 title: Le clean code
-publishDate: 2023-07-05 22:00:00
+publishDate: 2023-09-08 18:00:00
 img: /assets/blog/cleancode.jpg
 img_alt: Image illustrant le clean code
 description: |
