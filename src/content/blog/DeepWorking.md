@@ -1,6 +1,6 @@
 ---
 title: Maximisez votre Productivité avec le deep working
-publishDate: 2023-09-15 18:00:00
+publishDate: 2023-09-22 18:00:00
 img: /assets/blog/deepworking.jpg
 img_alt: Image de cerveaux
 description: |
