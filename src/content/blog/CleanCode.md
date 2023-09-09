@@ -15,7 +15,7 @@ tags:
 
 Dans le monde du développement logiciel, la qualité du code est un aspect crucial pour garantir la maintenabilité et l'évolutivité d'une application. Le Clean Code, ou code propre, est une approche qui met l'accent sur la lisibilité, la simplicité et la modularité du code. Dans cet article, nous explorerons les principes du Clean Code appliqués au langage de programmation C#, en fournissant des exemples concrets pour illustrer chaque concept.
 
-### Nommage explicite des variables et des fonctions
+#### Nommage explicite des variables et des fonctions
 
 Un code compréhensible repose sur un nommage clair et explicite des variables et des fonctions. Utilisez des noms de variables significatifs qui reflètent leur objectif et leur contenu. Évitez les abréviations obscures et les noms génériques. Voici un exemple :
 
