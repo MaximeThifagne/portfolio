@@ -19,7 +19,7 @@ Salut les lève-tôt et les futurs lève-tôt ! Vous avez déjà entendu parler 
 
 #### **Qu'est-ce que le Miracle Morning ?**
 
-Le Miracle Morning, créé par Hal Elrod, est une méthode qui vise à transformer vos matins en moments privilégiés pour prendre soin de vous et vous préparer mentalement et émotionnellement pour la journée à venir. La philosophie est simple : comment vous commencez votre journée influence votre état d'esprit, votre productivité et votre bonheur global. En investissant du temps et de l'attention dans différentes activités positives dès le matin, vous créez une dynamique favorable qui peut se propager tout au long de la journée.
+[Le Miracle Morning, créé par Hal Elrod](https://www.amazon.fr/Miracle-Morning-Hal-ELROD/dp/275408472X), est une méthode qui vise à transformer vos matins en moments privilégiés pour prendre soin de vous et vous préparer mentalement et émotionnellement pour la journée à venir. La philosophie est simple : comment vous commencez votre journée influence votre état d'esprit, votre productivité et votre bonheur global. En investissant du temps et de l'attention dans différentes activités positives dès le matin, vous créez une dynamique favorable qui peut se propager tout au long de la journée.
 
 #### **Le SAVERS : Les six piliers du Miracle Morning**
 
@@ -39,3 +39,6 @@ En adoptant le Miracle Morning, vous profitez de nombreux avantages. Vous commen
 #### **Conclusion**
 
 Alors, prêt à transformer vos matins en moments magiques ? Le Miracle Morning offre une méthode simple mais puissante pour commencer chaque journée du bon pied. En investissant du temps dans des activités qui nourrissent votre corps et votre esprit, vous créez une base solide pour une vie plus épanouissante. Alors, pourquoi ne pas essayer ? Qui sait, vous pourriez bien découvrir le secret pour des matins miraculeux et des journées extraordinaires ! 🌅🚀
+
+> "Votre niveau de succès, atteint dans la vie, est proportionnel à la quantité de travail que vous mettez et à la persévérance que vous montrez, tout en restant concentré sur vos objectifs à long terme."
+> \- Hal Elrod
