@@ -15,9 +15,10 @@ interface Props {
 const { title, description } = Astro.props;
 ---
 
-<html lang="en">
+<html lang="fr">
 	<head>
 		<MainHead title={title} description={description} />
+		<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=65101192f702ac001998f3a9&product=inline-share-buttons' async='async'></script>
 	</head>
 	<body>
 		<div class="stack backgrounds">
@@ -107,6 +108,11 @@ const { title, description } = Astro.props;
 					background-blend-mode: none;
 					--bg-gradient-size: none;
 				}
+			}
+
+			#st-1 .st-btn  img {
+				background: none !important;
+				border: none ! important;
 			}
 		</style>
 	</body>
