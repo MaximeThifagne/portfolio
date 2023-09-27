@@ -68,7 +68,7 @@ const iconLinks: { label: string; href: string; icon: IconProps['icon'] }[] = [
 					))
 				}
 			</div>
-			<div>
+			<div class="socials">
 				<div id="search"></div>
 				<script>
 				const instance = new PagefindModularUI.Instance();
@@ -225,6 +225,14 @@ const iconLinks: { label: string; href: string; icon: IconProps['icon'] }[] = [
 		box-shadow: var(--shadow-lg);
 	}
 
+	#results{
+		position: absolute;
+		background: radial-gradient(var(--gray-900), var(--gray-800) 150%);
+		width: 100%;	
+		top:300px;
+		right: 0;
+		}
+
 	.socials {
 		display: flex;
 		flex-wrap: wrap;
@@ -265,11 +273,9 @@ const iconLinks: { label: string; href: string; icon: IconProps['icon'] }[] = [
 		background: radial-gradient(var(--gray-900), var(--gray-800) 150%);
 		right: 20px;
 		width: 33%;	
+		top:100px;
 		}
-		
-		#search form input .pagefind-modular-input {
-			color:red !important;
-		}
+
 
 		.menu-header {
 			padding: 0;
@@ -332,7 +338,7 @@ const iconLinks: { label: string; href: string; icon: IconProps['icon'] }[] = [
 
 		.socials {
 			display: none;
-		}
+		}		
 	}
 
 	@media (min-width: 60em) {
