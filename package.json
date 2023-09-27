@@ -3,13 +3,15 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "astro dev",
+    "dev": "astro dev && postbuild",
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "postbuild": "pagefind --site dist --output-subdir pagefind"
   },
   "dependencies": {
-    "astro": "^2.4.1"
+    "astro": "^2.4.1",
+    "pagefind": "^1.0.3"
   }
 }

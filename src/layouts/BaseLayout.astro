@@ -17,6 +17,8 @@ const { title, description } = Astro.props;
 
 <html lang="fr">
 	<head>
+		<link href="/pagefind/pagefind-modular-ui.css" rel="stylesheet" />
+		<script src="/pagefind/pagefind-modular-ui.js" type="text/javascript"></script>
 		<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=65101192f702ac001998f3a9&product=inline-share-buttons' async='async'></script>
 		<MainHead title={title} description={description} />
 	</head>
@@ -32,7 +34,8 @@ const { title, description } = Astro.props;
 			addEventListener('load', () => document.documentElement.classList.add('loaded'));
 		</script>
 
-		<style>
+		<style>		
+
 			:root {
 				--_placeholder-bg: linear-gradient(transparent, transparent);
 				--bg-image-main: url('/assets/backgrounds/bg-main-light-800w.jpg');
@@ -46,6 +49,12 @@ const { title, description } = Astro.props;
 				--bg-scale: 1.68;
 				--bg-aspect-ratio: calc(var(--bg-image-aspect-ratio) / var(--bg-scale));
 				--bg-gradient-size: calc(var(--bg-scale) * 100%);
+				--pagefind-ui-scale: 0.7625;
+				--pagefind-ui-border-radius: 999rem;
+				--pagefind-ui-image-border-radius: 8px;
+				--pagefind-ui-background: var(--gray-900);
+				--pagefind-ui-border: var(--gray-800);
+				--pagefind-ui-text: var(--gray-300);
 			}
 
 			:root.theme-dark {
@@ -53,7 +62,7 @@ const { title, description } = Astro.props;
 				--bg-image-main-curves: url('/assets/backgrounds/bg-main-dark.svg');
 				--bg-svg-blend-mode: darken;
 				--bg-blend-mode: lighten;
-			}
+			}			
 
 			/* These backgrounds are displayed below the fold, so we lazy load them
 			   once the `.loaded` class has been set.  */
@@ -86,7 +95,7 @@ const { title, description } = Astro.props;
 					--bg-image-subtle-1: url('/assets/backgrounds/bg-subtle-1-dark-1440w.jpg');
 					--bg-image-subtle-2: url('/assets/backgrounds/bg-subtle-2-dark-1440w.jpg');
 					--bg-image-footer: url('/assets/backgrounds/bg-footer-dark-1440w.jpg');
-				}
+				}				
 			}
 
 			.backgrounds {

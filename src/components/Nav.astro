@@ -68,7 +68,19 @@ const iconLinks: { label: string; href: string; icon: IconProps['icon'] }[] = [
 					))
 				}
 			</div>
-
+			<div>
+				<div id="search"></div>
+				<script>
+				const instance = new PagefindModularUI.Instance();
+					instance.add(new PagefindModularUI.Input({
+						containerElement: "#search"
+					}));
+					instance.add(new PagefindModularUI.ResultList({
+						containerElement: "#results"
+					}));
+				</script>
+				<div id="results"></div>
+			</div>
 			<div class="theme-toggle">
 				<ThemeToggle />
 			</div>
@@ -134,6 +146,10 @@ const iconLinks: { label: string; href: string; icon: IconProps['icon'] }[] = [
 		line-height: 1.1;
 		color: var(--gray-0);
 		text-decoration: none;
+	}	
+
+	#results .pagefind-modular-list-result:last-of-type {
+    	border-bottom: none !important;
 	}
 
 	.menu-button {
@@ -242,6 +258,17 @@ const iconLinks: { label: string; href: string; icon: IconProps['icon'] }[] = [
 			align-items: center;
 			padding: 2.5rem 5rem;
 			gap: 1rem;
+		}
+
+		#results{
+		position: absolute;
+		background: radial-gradient(var(--gray-900), var(--gray-800) 150%);
+		right: 20px;
+		width: 33%;	
+		}
+		
+		#search form input .pagefind-modular-input {
+			color:red !important;
 		}
 
 		.menu-header {
