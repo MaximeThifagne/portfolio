@@ -1,6 +1,6 @@
 ---
-title: Mon avis sur la formation 'Notion Facile' de Shubham SHARMA
-publishDate: 2023-09-29 18:00:00
+title: Mon avis sur la formation 'Notion Facile'
+publishDate: 2023-09-30 21:45:00
 img: /assets/blog/notionfacile.png
 img_alt: Image de cerveaux
 description: "Découvrez 'Notion Facile' de Shubham SHARMA : Une Formation Adaptée à Tous les Niveaux"
